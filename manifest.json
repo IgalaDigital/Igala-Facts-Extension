@@ -9,7 +9,7 @@
         "500": "img/chrome-icon.png"
     },
     "browser_action": {
-        "default_title": "Know it Today",
+        "default_title": "IgalaFacts | Know it Today",
         "default_icon": "img/chrome-icon.png",
         "default_popup": "popup/popup.html"
     },
