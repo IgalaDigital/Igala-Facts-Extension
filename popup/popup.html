@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en-US">
+
+<head>
+    <meta charset="utf-8">
+    <title>IgalaFacts</title>
+
+    <style>
+        @import url('../fonts/font.css');
+
+        html,
+        body,
+        div,
+        a,
+        form,
+        header,
+        footer,
+        h1,
+        p {
+            margin: 0;
+            padding: 0;
+            border: 0;
+            font: inherit;
+            font-size: 100%;
+            vertical-align: baseline;
+        }
+
+        *,
+        *:before,
+        *:after {
+            box-sizing: inherit;
+        }
+
+        html {
+            font-size: 62.5%;
+            box-sizing: border-box;
+        }
+
+        body {
+            line-height: 1.4;
+            font-family: 'Roboto Mono', monospace;
+            font-size: 1.4rem;
+            color: rgb(30, 30, 30);
+        }
+
+        a {
+            color: inherit;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: none;
+            border-bottom: 2px dotted #000;
+        }
+
+        body {
+            width: 250px;
+            background: rgb(245, 245, 245);
+        }
+
+        header,
+        form,
+        footer {
+            padding: 15px;
+        }
+
+        header {
+            background: #00ab66;
+            padding: 10px;
+            text-align: center;
+            font-size: 1.5rem;
+            font-weight: 600;
+        }
+
+        footer {
+            font-size: 1.3rem;
+            text-align: center;
+            display: block;
+            border-top: 1px solid rgb(220, 220, 220)
+        }
+
+        .button-group {
+            margin-top: 15px;
+            margin-bottom: 10px;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        button {
+            display: inline-block;
+            height: 40px;
+            box-shadow: 0 1px 3px 0 hsla(40, 3%, 45%, .35);
+            border: 0;
+            border-radius: 3px;
+            font-size: 1.3rem;
+            font-weight: 600;
+            cursor: pointer;
+        }
+
+        button#trigger {
+            width: 100%;
+            background: #00ab66;
+            color: #fff;
+        }
+
+        button#trigger img {
+            width: 20%;
+            height: auto;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>IgalaFacts</h1>
+    </header>
+    <form>
+        <div class="button-group">
+            <button id="trigger" type="button" disabled>
+                <img src="/img/icon.png">
+            </button>
+        </div>
+    </form>
+
+    <footer>
+        Powered By
+        <a href="https://igaladigital.org" rel="noopener" target="_blank">IgalaDigital Org</a>
+    </footer>
+</body>
+
+</html>
