@@ -6,6 +6,7 @@ A Chrome Browser Extension that displays random Igala Facts. :fire:
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+Submit a/your Fact [here](https://forms.gle/bhvK7nVyU3DQDrwz7)
 </div>
 
 # Contributors Guide
@@ -102,7 +103,7 @@ $ git push -u origin master
 
 - [Git/ Git Hub on Windows](https://www.youtube.com/watch?v=J_Clau1bYco)
 
-If you are not a Developer and still want to add a/your Fact to this Extension fill [this form](https://https://forms.gle/bhvK7nVyU3DQDrwz7) and it would be added.
+If you are not a Developer and still want to add a/your Fact to this Extension fill [this form](https://forms.gle/bhvK7nVyU3DQDrwz7) and it would be added.
     
 This Guide is Open for Updates, if you feel it is not complete or you have ideas of what should be added, Follow the same format above.
 This file is stored in `README.md`
