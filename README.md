@@ -55,7 +55,7 @@ Quotes are stored in this format
     }
 ]
 ```
-To add a new Fact this Extension; you need to add the Quote to the `JSON file`
+To add a new Fact this Extension; you need to add the Fact to the `JSON file`
 
 ## STEP ONE
 - Every Fact has a designated number, so check the number of the last fact before we proceed
