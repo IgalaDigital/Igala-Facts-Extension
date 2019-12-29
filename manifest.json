@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "name": "IgalaFacts for Chrome",
+    "short_name": "IgalaFacts",
+    "description": "IgalaFacts displays random inspiring Igala Facts",
+    "version": "1.0",
+    "author": "Ilemona Achimugu",
+    "icons": {
+        "500": "img/chrome-icon.png"
+    },
+    "browser_action": {
+        "default_title": "Know it Today",
+        "default_icon": "img/chrome-icon.png",
+        "default_popup": "popup/popup.html"
+    },
+    "chrome_url_overrides": {
+        "newtab": "newtab.html"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+}
