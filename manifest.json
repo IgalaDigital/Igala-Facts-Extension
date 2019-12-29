@@ -6,7 +6,7 @@
     "version": "1.0",
     "author": "Ilemona Achimugu",
     "icons": {
-        "500": "img/chrome-icon.png"
+        "500": "img/icon.png"
     },
     "browser_action": {
         "default_title": "IgalaFacts | Know it Today",
