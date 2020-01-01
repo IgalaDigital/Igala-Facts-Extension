@@ -8,6 +8,19 @@ body {
     font-weight: 100;
     font-family: 'Roboto Mono', monospace;
 }
+body::after {
+  background: url(img/bg.jpg);
+  content: "";
+  opacity: 0.4;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  z-index: -1;   
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
 hr {
     border-top: 1px dashed #ffe600;
