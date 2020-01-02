@@ -9,6 +9,8 @@ A Chrome Browser Extension that displays random Igala Facts. :fire:
 Download <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="15" /></a> Extension [here](https://chrome-download-link)
 
 Submit a/your Fact [here](https://forms.gle/bhvK7nVyU3DQDrwz7)
+
+![Igala Facts Demo](/ifacts.gif)
 </div>
 
 # Contributors Guide
