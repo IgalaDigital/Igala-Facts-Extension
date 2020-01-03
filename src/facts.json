@@ -2,15 +2,25 @@
     {
         "number": "1",
         "publisher": "Ilemona",
-        "fact": "Did you know the Igala alphabet is made up of thirty-one (31) letters: some vowels, others consonants. Fact."
+        "fact": "Did you know the Igala alphabet is made up of thirty-one (31) letters: some vowels, others consonants?"
     },
 {
         "number": "2",
         "publisher": "Ilemona",
+        "fact": "Did you know that the Igala alphabet was adopted from the English alphabet. The latter has five (5) vowels: “a,” “e,” “i,” “o,” “u.”?"
+    },
+{
+        "number": "3",
+        "publisher": "Ilemona",
+        "fact": "Did you know that the Ígálá language has seven (7) vowels: “a,” “e,” “ẹ,” “i,” “o,” “ọ,” “u” (encompassing both all the 5 English vowels and two indigenous ones, ‘ẹ’ and  ‘ọ’).?"
+    },
+{
+        "number": "4",
+        "publisher": "Ilemona",
         "fact": "Did you know that igaladigital is the team behind this project?"
     },
     {
-        "number": "3",
+        "number": "5",
         "publisher": "Onuche",
         "fact": "Did You Know That Idah is Called Idah Alu Ogo Oja Abutu Eje?"
     }
