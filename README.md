@@ -56,7 +56,7 @@ Quotes are stored in this format
     {
         "number": "1",
 	"publisher": "Ilemona",
-        "quote": "Did you know that Gov Yahaya Bello is now the onu ogwu of igala land?. - Demo Fact"
+        "fact": "Did you know that Gov Yahaya Bello is now the onu ogwu of igala land?. - Demo Fact"
     }
 ]
 ```
@@ -70,7 +70,7 @@ To add a new Fact this Extension; you need to add the Fact to the `JSON file`
 {
         "number": "1",
 	"publisher": "Ilemona",
-        "quote": "Did you know that Gov Yahaya Bello is now the onu ogwu of igala land?. - Demo Fact"
+        "fact": "Did you know that Gov Yahaya Bello is now the onu ogwu of igala land?. - Demo Fact"
 },
 ```
 - The last fact does not end with a `,` after the curly brackets `}`
@@ -81,7 +81,7 @@ To add a new Fact this Extension; you need to add the Fact to the `JSON file`
 {
         "number": "1",
 	"publisher": "Ilemona",
-        "quote": "Did you know that Gov Yahaya Bello is now the onu ogwu of igala land?. - Demo Fact"
+        "fact": "Did you know that Gov Yahaya Bello is now the onu ogwu of igala land?. - Demo Fact"
 }
 ```
 - Now edit that code snippet to show your own fact; <br>
