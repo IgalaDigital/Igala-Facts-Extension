@@ -7,6 +7,7 @@ request.onload = () => {
             random = Math.floor(Math.random() * data.length);
 
         document.getElementById('fact').innerHTML = data[random].fact;
+	document.getElementById('number').innerHTML = data[random].number;
         document.getElementById('publisher').innerHTML = data[random].publisher;
     }
 };
